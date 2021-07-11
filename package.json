@@ -1,0 +1,26 @@
+{
+  "name": "@josharsh/linkedlistjs",
+  "version": "1.0.0",
+  "description": "Linked list data structure with complete accessories including traversal, search, reversal and more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josharsh/LinkedlistJs.git"
+  },
+  "keywords": [
+    "Linked",
+    "list",
+    "javascript",
+    "Linked",
+    "list"
+  ],
+  "author": "josharsh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josharsh/LinkedlistJs/issues"
+  },
+  "homepage": "https://github.com/josharsh/LinkedlistJs#readme"
+}
