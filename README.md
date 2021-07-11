@@ -14,7 +14,7 @@ npm i @josharsh/linkedlistjs
 ## How to Use
 ```js
 
-var harshlist =require("LinkedList")
+var harshlist =require("@josharsh/linkedlistjs")
 harshlist.append(10);
 harshlist.append(20);
 harshlist.append(30);
